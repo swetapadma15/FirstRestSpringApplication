@@ -1,0 +1,5 @@
+org\com\firstSpringReactApplication\FirstSpringReactApplication.class
+org\com\firstSpringReactApplication\service\StudentService.class
+org\com\firstSpringReactApplication\model\Student.class
+org\com\firstSpringReactApplication\service\impl\StudentServiceImpl.class
+org\com\firstSpringReactApplication\controller\StudentController.class
